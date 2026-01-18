@@ -1,4 +1,4 @@
-C:\Users\swapn\OneDrive\Desktop\QSpider-oct-2025\java-practicle\methods\github-repo>java TicTacToe
+C:\QSpider-oct-2025\java-practicle\methods\github-repo>java TicTacToe
 
 --------WELCOME----------
 
